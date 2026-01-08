@@ -6,5 +6,3 @@ I contributed significantly to almost all classes in the source code. I wrote at
 I did not create any of the assets. That was done by another group member.
 
 AI was used to generate the code for the Keyboard.java class (for keyboard binding). Although AI was used as a learning tool for the other classes, to the best of my knowledge all other code was written by hand. I specifically did not use AI to generate any other code besides the singular Keyboard class.
-
-Instructions and other details on how to run the program are found in Instructions.txt.
